@@ -59,7 +59,8 @@ The Boston dataset contains the following columns:
 4. Executive Summary
 
 #### 1. File Descriptions
-- **Data** : folder containing all data files
+- Multiple Linear Regression - Boston_House_Prices.ipynb
+- README.md
 
 #### 2. Technologies Used
 - Python
