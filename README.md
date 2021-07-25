@@ -82,15 +82,16 @@ The Boston dataset contains the following columns:
     - 5.1 Identify the variables
     - 5.2 Dealing with Missing values
     - 5.3 Dealing with Outliers
-6. Train and Test the Linear Regression model
-    - 6.1 Split the columns
-    - 6.2 Split the data into Training dataset and Testing dataset
-    - 6.3 Create the Linear Regression model
-    - 6.4 Train / fit the Linear Regression model
-    - 6.5 Calculate the coefficients of Linear Regression equation
-    - 6.6 Predictions from the model on Testing data
-    - 6.7 Evaluate the model on Testing data
-7. Predict the label on new data
+6. Statistics
+7. Train and Test the Linear Regression model
+    - 7.1 Split the columns
+    - 7.2 Split the data into Training dataset and Testing dataset
+    - 7.3 Create the Linear Regression model
+    - 7.4 Train / fit the Linear Regression model
+    - 7.5 Calculate the coefficients of Linear Regression equation
+    - 7.6 Predictions from the model on Testing data
+    - 7.7 Evaluate the model on Testing data
+8. Predict the label on new data
 
 #### 4. Executive Summary
 TBA
