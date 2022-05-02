@@ -30,7 +30,7 @@
   - Process optimization
   - Number of calls
   - Total sales
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Project Objective: Predicting the median value of owner-occupied homes in Boston
 Create a model that allows to put in a few features of a house and returns back an estimate of the selling price of a house in various places in Boston. Information about the houses in Boston is in a built-in Boston dataset which is imported from Scikit-Learn datasets (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html#sklearn.datasets.load_boston).
 
@@ -52,7 +52,7 @@ The Boston dataset contains the following columns:
 - **LSTAT** % lower status of the population
 - **MEDV** Median value of owner-occupied homes in 1000’s dollars
 
-### --------------------------------------------------------------------------------------------------------
+### -------------------------------------------------------------------------------------------------------
 ### Table of Contents:
 1. File Descriptions
 2. Technologies Used
